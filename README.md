@@ -1,1 +1,1 @@
-# React-QuicComponent
+# React-QuizComponent
